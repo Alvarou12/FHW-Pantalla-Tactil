@@ -1,1 +1,1 @@
-# FHW-Pantalla-T-ctil
+# FHW-Pantalla-Tactil
